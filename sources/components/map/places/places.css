@@ -1,0 +1,16 @@
+.place-list{
+  max-height: 100%;
+  overflow: auto;
+}
+
+.place-list-item {
+  display: block;
+  width: 50%;
+  float: left;
+  padding: 5px 0;
+}
+
+.place-list-item img{
+  width: 350px;
+  min-height: 233px;
+}

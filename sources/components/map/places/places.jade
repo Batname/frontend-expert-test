@@ -1,0 +1,7 @@
+ul
+  - each place in places
+    li.place-list-item
+      div= place.location_name
+      div= place.location_city
+      if place.image_urls[0]
+        img(src=place.image_urls[0])

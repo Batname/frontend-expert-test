@@ -1,0 +1,7 @@
+{
+  "apiUrl": "http://localhost:8080/places.json",
+  "lat": 52.3702157,
+  "lng": 4.895167900000001,
+  "zoom": 10,
+  "elementId": "map"
+}
